@@ -26,6 +26,4 @@ export class TaskController {
         return this.tasksService.updateTask(id, updateFields)
     }
 
-
-
 }
